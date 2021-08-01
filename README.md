@@ -5,7 +5,7 @@ simple application for viewing and editing tags in audio files
 Automatic install/update:
 
 ```shell
-bash -c "$(curl -LSs https://github.com/dfmgr/easytag/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/dfmgr/easytag/raw/main/install.sh)"
 ```
 
 Manual install:
